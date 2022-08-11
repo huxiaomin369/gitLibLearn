@@ -1,11 +1,3 @@
-hallo a zhe shi  di er ci  fixed bug
+this is a cherry pick learn file
 
-wo xiugai le yao zantin
-
-
-di er hang
-di er hang
-di san hang
-confict are checkout perfect
-modify in master
-modify in dev
+created first
